@@ -1,4 +1,4 @@
-title: 멤버
+title: people
 layout: default
 ---
 
